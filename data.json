@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Big Buck Bunny Volume 1",
+        "videoUrl": "rtsp://zephyr.rtsp.stream/movie?streamKey=e222487eecda1986d3613d29049845fa",
+        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/thumbnail_bic_buck_bunny_1.webp"
+    },
+    {
+        "name": "TV Signal",
+        "videoUrl": "rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high",
+        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/thumbnail_tv_signal_1.webp"
+    },
+    {
+        "name": "Big Buck Bunny Volume 2",
+        "videoUrl": "rtsp://zephyr.rtsp.stream/movie?streamKey=e222487eecda1986d3613d29049845fa",
+        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/thumbnail_bic_buck_bunny_2.webp"
+    },
+    {
+        "name": "Big Buck Bunny Volume 3",
+        "videoUrl": "rtsp://zephyr.rtsp.stream/movie?streamKey=e222487eecda1986d3613d29049845fa",
+        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/thumbnail_bic_buck_bunny_3.webp"
+    },
+    {
+        "name": "TV Signal Volume 2",
+        "videoUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/thumbnail_tv_signal_2.webp",
+        "thumbnail": "LIVE"
+    }
+]
