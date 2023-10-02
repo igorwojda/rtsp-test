@@ -1,27 +1,32 @@
 [
     {
-        "name": "Big Buck Bunny Volume 1",
-        "videoUrl": "rtsp://zephyr.rtsp.stream/movie?streamKey=e222487eecda1986d3613d29049845fa",
-        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/thumbnail_bic_buck_bunny_1.webp"
+        "name": "Live 1",
+        "videoUrl": "https://fcc3ddae59ed.us-west-2.playback.live-video.net/api/video/v1/us-west-2.893648527354.channel.DmumNckWFTqz.m3u8",
+        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/Live1.png",
+        "type": "live"
     },
     {
-        "name": "TV Signal",
-        "videoUrl": "rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high",
-        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/thumbnail_tv_signal_1.webp"
+        "name": "Live 2",
+        "videoUrl": "https://fcc3ddae59ed.us-west-2.playback.live-video.net/api/video/v1/us-west-2.893648527354.channel.DmumNckWFTqz.m3u8",
+        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/Live2.png",
+        "type": "live"
     },
     {
-        "name": "Big Buck Bunny Volume 2",
-        "videoUrl": "rtsp://zephyr.rtsp.stream/movie?streamKey=e222487eecda1986d3613d29049845fa",
-        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/thumbnail_bic_buck_bunny_2.webp"
+        "name": "Live 3",
+        "videoUrl": "https://fcc3ddae59ed.us-west-2.playback.live-video.net/api/video/v1/us-west-2.893648527354.channel.DmumNckWFTqz.m3u8",
+        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/Live3.png",
+        "type": "live"
     },
     {
-        "name": "Big Buck Bunny Volume 3",
-        "videoUrl": "rtsp://zephyr.rtsp.stream/movie?streamKey=e222487eecda1986d3613d29049845fa",
-        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/thumbnail_bic_buck_bunny_3.webp"
+        "name": "Vod 1",
+        "videoUrl": "https://d6hwdeiig07o4.cloudfront.net/ivs/956482054022/cTo5UpKS07do/2020-07-13T22-54-42.188Z/OgRXMLtq8M11/media/hls/master.m3u8",
+        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/Vod1.png",
+        "type": "vod"
     },
     {
-        "name": "TV Signal Volume 2",
-        "videoUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/thumbnail_tv_signal_2.webp",
-        "thumbnail": "LIVE"
+        "name": "Vod 2",
+        "videoUrl": "https://d6hwdeiig07o4.cloudfront.net/ivs/956482054022/cTo5UpKS07do/2020-07-13T22-54-42.188Z/OgRXMLtq8M11/media/hls/master.m3u8",
+        "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/Vod2.png",
+        "type": "vod"
     }
 ]
