@@ -1,0 +1,78 @@
+{
+	"status": {
+		"error": false,
+		"code": 200,
+		"message": "SUCCESS"
+	},
+	"data": {
+		"categories": [
+			{
+				"id": "category_01",
+				"name": "Category Name 1",
+				"slug": "category-1",
+				"tags": [
+					"IRL"
+				],
+				"image_url": "https://files.kick.com/images/subcategories/15/banner/8f43401b-0d59-4802-8f70-cd5e259adc9b",
+				"directory": {
+					"id": "directory_01GFENKFVGWPY7XH1W5BFGGCVA",
+					"name": "IRL",
+					"slug": "irl",
+					"image_url": ""
+				},
+				"viewers_count": 139988
+			},
+			{
+				"id": "category_02",
+				"name": "Category Name 2",
+				"slug": "category-2",
+				"tags": [
+					"Shooter",
+					"Action",
+					"Open World"
+				],
+				"image_url": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9",
+				"directory": {
+					"id": "directory_01GFENKBYGWQ547RFMVD3CNMKB",
+					"name": "GCategory Name ames",
+					"slug": "games",
+					"image_url": ""
+				},
+				"viewers_count": 16258
+			},
+			{
+				"id": "category_03",
+				"name": "Category Name 3",
+				"slug": "category-3",
+				"tags": [
+					"Gambling"
+				],
+				"image_url": "https://files.kick.com/images/subcategories/28/banner/5d5a7c84-0791-4e4c-9e9e-2ff031c88f8f",
+				"directory": {
+					"id": "directory_01GFENKJS8182HPSB9HFW1ZVH4",
+					"name": "Gambling",
+					"slug": "gambling",
+					"image_url": ""
+				},
+				"viewers_count": 15114
+			},
+			{
+				"id": "category_04",
+				"name": "Category Name 4",
+				"slug": "category-4",
+				"tags": [
+					"Other"
+				],
+				"image_url": "https://files.kick.com/images/subcategories/247/banner/43fbd1e4-34c4-48e6-9b51-9a7772bc7ef6",
+				"directory": {
+					"id": "directory_01GFY5XPAGRC5GH3D6M44XMENT",
+					"name": "Alternative",
+					"slug": "alternative",
+					"image_url": ""
+				},
+				"viewers_count": 10630
+			}
+		],
+		"next_cursor": "category_0abc"
+	}
+}

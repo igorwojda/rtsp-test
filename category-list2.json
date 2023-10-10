@@ -1,0 +1,46 @@
+{
+	"status": {
+		"error": false,
+		"code": 200,
+		"message": "SUCCESS"
+	},
+	"data": {
+		"categories": [
+			{
+				"id": "category_05",
+				"name": "Category Name 5",
+				"slug": "category-5",
+				"tags": [
+					"IRL"
+				],
+				"image_url": "https://files.kick.com/images/subcategories/15/banner/8f43401b-0d59-4802-8f70-cd5e259adc9b",
+				"directory": {
+					"id": "directory_01GFENKFVGWPY7XH1W5BFGGCVA",
+					"name": "IRL",
+					"slug": "irl",
+					"image_url": ""
+				},
+				"viewers_count": 139988
+			},
+			{
+				"id": "category_06",
+				"name": "Category Name 6",
+				"slug": "category-6",
+				"tags": [
+					"Shooter",
+					"Action",
+					"Open World"
+				],
+				"image_url": "https://files.kick.com/images/subcategories/8/banner/8110f223-9654-4536-bfee-6a324bbf03f9",
+				"directory": {
+					"id": "directory_01GFENKBYGWQ547RFMVD3CNMKB",
+					"name": "GCategory Name ames",
+					"slug": "games",
+					"image_url": ""
+				},
+				"viewers_count": 16258
+			}
+		],
+		"next_cursor": null
+	}
+}
