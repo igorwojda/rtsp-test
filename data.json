@@ -1,7 +1,7 @@
 [
     {
         "name": "Live 1",
-        "videoUrl": "https://fcc3ddae59ed.us-west-2.playback.live-video.net/api/video/v1/us-west-2.893648527354.channel.DmumNckWFTqz.m3u8",
+        "videoUrl": "https://video-edge-6b2d47.sjc05.hls.live-video.net/v1/segment/Cnj6wkORZjcTYH2E9j_kzImCsCzmRUyBKyhlaDo5jxf0FsEaslTmo7Zs-jVOnq9p02W0H5Mbu1aYrI8J1hN_eHp8Viq65VrP1sIo8kgSmPalycTC36c2xahLMIuNVc_ugSwCySTdi-lHCFpVM4fV6R2scFWpPk087Ut_c7NmknErJBC0hCnHkXWWC9nx4xJPn3NsjCqRAQ-xiGkvkVmqxOORl9uMcoDTPRyUDX6wg6C3Lx-tfcN6KckjJDAZzJWB_t1Sz6MhcmhvLsJjkRihixfVGolMjNQjN0aLxFajPjS4JMKOopRGrQ8se6tC1sr3N0XcMol3DyRjeKuoEfTUhROvh4ITc2xTzXsSLWqLUsk2W9wMyHdpCGLypMno31RjVUC4Pz2S7267aMHlbujbrHX_1NfyUud38KZ9Wg7ICETt86IDAI-22EH-t65Dpvsil-jAGaWZcmr0tGuGMvOmrb_KaQ1io6Nqw_RQg5t7eZO6HEUxrXhuE_l-Bkr1ZrkxjRrUOWFu94qRvRAE4UcEitXVXduAGLlW82QEa5U_GlY39kGgYitwTMcNPiU3VHc6T067welF5973s4A4KoUpfgA6Mv13V5A0lBFJFJQBpUO1I1InVxGSuWZLUdrlVg0mJo0hGsKLVmofKroaK_xbPepvsUp6WmunCrmBHOujM8",
         "thumbnailUrl": "https://raw.githubusercontent.com/igorwojda/rtsp-test/main/live-thumbnail-1.png",
         "type": "live"
     },
